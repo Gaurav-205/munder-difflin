@@ -35,7 +35,5 @@ eleventyExcludeFromCollections: true
   {%- for c in collections.categories %}
   <url><loc>{{ site.origin }}{{ ('/topics/' + c.slug + '/') | u }}</loc><changefreq>weekly</changefreq><priority>0.5</priority></url>
   {%- endfor %}
-  {%- for t in collections.tagList %}
-  <url><loc>{{ site.origin }}{{ ('/tags/' + t.slug + '/') | u }}</loc><changefreq>weekly</changefreq><priority>0.3</priority></url>
-  {%- endfor %}
+  {#- Tag pages are noindex (see tag.njk), so they stay out of the sitemap. #}
 </urlset>
