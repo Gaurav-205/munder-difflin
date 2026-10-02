@@ -4,9 +4,25 @@
   <subtitle>Guides, deep dives, and comparisons on running multi-agent Claude Code: orchestration, agent memory, automation, and the tooling landscape.</subtitle>
   <link href="https://munderdiffl.in/blog/feed.xml" rel="self" />
   <link href="https://munderdiffl.in/blog/" />
-  <updated>2026-10-01T00:00:00.000Z</updated>
+  <updated>2026-10-02T00:00:00.000Z</updated>
   <id>https://munderdiffl.in/blog/</id>
   <author><name>Chaitanya Giri</name><uri>https://munderdiffl.in</uri></author>
+  <entry>
+    <title>What Is Codex? OpenAI&#39;s Coding Agent in the CLI, App and Cloud</title>
+    <link href="https://munderdiffl.in/blog/what-is-codex/" />
+    <id>https://munderdiffl.in/blog/what-is-codex/</id>
+    <published>2026-10-02T00:00:00.000Z</published>
+    <updated>2026-10-02T00:00:00.000Z</updated><category term="Concepts" />
+    <summary>What is Codex? OpenAI&#39;s coding agent runs in your terminal, the ChatGPT desktop app, your IDE and the cloud. Which plans include it, checked 2 Oct 2026.</summary>
+  </entry>
+  <entry>
+    <title>What is Pi agent? The open source coding agent harness, explained</title>
+    <link href="https://munderdiffl.in/blog/what-is-pi-agent/" />
+    <id>https://munderdiffl.in/blog/what-is-pi-agent/</id>
+    <published>2026-10-02T00:00:00.000Z</published>
+    <updated>2026-10-02T00:00:00.000Z</updated><category term="Concepts" />
+    <summary>Pi agent is Earendil&#39;s MIT licensed coding agent harness. What it is, how to install it, what Pi 1.0 and Pi Durable add, and how it compares.</summary>
+  </entry>
   <entry>
     <title>Best Open Source AI Agents: 10 Picks by Job, Checked 1 Oct 2026</title>
     <link href="https://munderdiffl.in/blog/open-source-ai-agents/" />
@@ -112,12 +128,12 @@
     <summary>Turn Claude Code into a personal AGI on your own computer: agents with memory, schedules, Gmail, Calendar, voice and Slack, set up in Munder Difflin 0.5.2.</summary>
   </entry>
   <entry>
-    <title>How to Install Gemini CLI, and Who Can Still Use It in 2026</title>
+    <title>How to Install Gemini CLI, and Can It Use Gemini 4 Yet?</title>
     <link href="https://munderdiffl.in/blog/how-to-install-gemini-cli/" />
     <id>https://munderdiffl.in/blog/how-to-install-gemini-cli/</id>
     <published>2026-09-15T00:00:00.000Z</published>
-    <updated>2026-09-15T00:00:00.000Z</updated><category term="Guides" />
-    <summary>Install Google&#39;s Gemini CLI with npm on Mac, Windows or Linux, why Homebrew is stuck on 0.46.0, and which sign in still works after 18 Jun 2026.</summary>
+    <updated>2026-10-02T00:00:00.000Z</updated><category term="Guides" />
+    <summary>Install Gemini CLI 0.62.0 with one npm command, see which sign ins still work after 18 Jun 2026, and why Gemini 4 Argon isn&#39;t in it yet.</summary>
   </entry>
   <entry>
     <title>Is Ollama Good for Coding? What Local Models Can and Can&#39;t Do</title>
@@ -470,21 +486,5 @@
     <published>2026-07-03T00:00:00.000Z</published>
     <updated>2026-07-03T00:00:00.000Z</updated><category term="Guides" />
     <summary>A practical walkthrough of Munder Difflin v0.3.3&#39;s built-in Monaco IDE: the title-bar IDE button, the git CHANGES rail with side-by-side diffs vs HEAD, the file tree, tabs, Cmd/Ctrl+S save — and the agent review workflow it enables.</summary>
-  </entry>
-  <entry>
-    <title>Launching Munder Difflin v0.3.3: A Built-in Monaco IDE and GitHub Copilot CLI Support</title>
-    <link href="https://munderdiffl.in/blog/launching-munder-difflin-v0-3-3/" />
-    <id>https://munderdiffl.in/blog/launching-munder-difflin-v0-3-3/</id>
-    <published>2026-07-03T00:00:00.000Z</published>
-    <updated>2026-07-03T00:00:00.000Z</updated><category term="Story" />
-    <summary>Munder Difflin v0.3.3 adds a full Monaco IDE — file tree, editor tabs, save, and side-by-side git diffs of your agents&#39; changes — plus GitHub Copilot CLI as a first-class agent engine, our first community-contributed provider.</summary>
-  </entry>
-  <entry>
-    <title>Loop Engineering: Designing Agent Loops That Converge</title>
-    <link href="https://munderdiffl.in/blog/loop-engineering-for-ai-agents/" />
-    <id>https://munderdiffl.in/blog/loop-engineering-for-ai-agents/</id>
-    <published>2026-07-03T00:00:00.000Z</published>
-    <updated>2026-07-03T00:00:00.000Z</updated><category term="Concepts" />
-    <summary>Everyone engineers the prompt; almost nobody engineers the loop around it. Stop conditions, drain loops, retry with backoff, compaction cycles, breaker escalation, budgets, and human gates — the outer-loop mechanics that make an agent converge instead of run away.</summary>
   </entry>
 </feed>
