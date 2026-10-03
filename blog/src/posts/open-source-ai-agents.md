@@ -48,6 +48,8 @@ It is a program that calls a language model in a loop and uses tools to finish a
 
 **7. Aider.** [Aider](https://github.com/Aider-AI/aider) (Apache 2.0) is AI pair programming in your terminal, with git built into the loop. Its latest release is from August 2025. Best for: a small, proven tool, if slow updates are fine.
 
+One more for the terminal: Pi, Earendil's MIT licensed agent harness, which leaves out plan mode and subagents on purpose. Our [what is Pi agent](/blog/what-is-pi-agent/) explainer covers its 1.0 release.
+
 **8. OpenHands.** OpenHands (MIT), formerly OpenDevin, leads its README with Agent Canvas: a self hosted control center that runs the OpenHands agent, Claude Code, Codex or Gemini on local, Docker, VM or cloud backends. Best for: a shared agent server for a team.
 
 **9. Goose.** Goose (Apache 2.0) moved from Block to the Agentic AI Foundation at the Linux Foundation. It is a general agent with a desktop app and a CLI, and works with 15+ model providers. Best for: a general agent that is not only for code.
