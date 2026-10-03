@@ -4,9 +4,25 @@
   <subtitle>Guides, deep dives, and comparisons on running multi-agent Claude Code: orchestration, agent memory, automation, and the tooling landscape.</subtitle>
   <link href="https://munderdiffl.in/blog/feed.xml" rel="self" />
   <link href="https://munderdiffl.in/blog/" />
-  <updated>2026-10-02T00:00:00.000Z</updated>
+  <updated>2026-10-03T00:00:00.000Z</updated>
   <id>https://munderdiffl.in/blog/</id>
   <author><name>Chaitanya Giri</name><uri>https://munderdiffl.in</uri></author>
+  <entry>
+    <title>Agent Tools Today, 3 Oct 2026: Claude Code Mods, OpenDots, Conductor Mobile</title>
+    <link href="https://munderdiffl.in/blog/agent-tools-today-2026-10-03/" />
+    <id>https://munderdiffl.in/blog/agent-tools-today-2026-10-03/</id>
+    <published>2026-10-03T00:00:00.000Z</published>
+    <updated>2026-10-03T00:00:00.000Z</updated><category term="News" />
+    <summary>The top 5 launches, skills and MCP servers, multi agent moves, rising repos and arguments in coding agents on 3 Oct 2026, each with its source.</summary>
+  </entry>
+  <entry>
+    <title>Hermes Agent: what it is, how to install it and what it costs</title>
+    <link href="https://munderdiffl.in/blog/what-is-hermes-agent/" />
+    <id>https://munderdiffl.in/blog/what-is-hermes-agent/</id>
+    <published>2026-10-03T00:00:00.000Z</published>
+    <updated>2026-10-03T00:00:00.000Z</updated><category term="Concepts" />
+    <summary>Hermes Agent is Nous Research&#39;s MIT licensed AI agent with memory, skills and chat channels. Install command, models, pricing and how it compares.</summary>
+  </entry>
   <entry>
     <title>What Is Codex? OpenAI&#39;s Coding Agent in the CLI, App and Cloud</title>
     <link href="https://munderdiffl.in/blog/what-is-codex/" />
@@ -470,21 +486,5 @@
     <published>2026-07-03T00:00:00.000Z</published>
     <updated>2026-09-10T00:00:00.000Z</updated><category term="Guides" />
     <summary>A practical guide to Munder Difflin&#39;s Agent Gallery: pick one of 80 ready made roles, download its manifest, import it with Add agent, review every field, customise identity, workspace, engine and briefing, then spawn it yourself.</summary>
-  </entry>
-  <entry>
-    <title>How to Brief Your Orchestrator (So the Floor Actually Ships)</title>
-    <link href="https://munderdiffl.in/blog/how-to-talk-to-your-orchestrator/" />
-    <id>https://munderdiffl.in/blog/how-to-talk-to-your-orchestrator/</id>
-    <published>2026-07-03T00:00:00.000Z</published>
-    <updated>2026-07-03T00:00:00.000Z</updated><category term="Guides" />
-    <summary>A practical guide to briefing Munder Difflin&#39;s GOD orchestrator: state the goal not the steps, set constraints and budgets, name the deliverable, and let Michael staff the floor. With bad-vs-good brief examples, mid-run steering, and Talk mode.</summary>
-  </entry>
-  <entry>
-    <title>How to Use the Built-in Monaco IDE</title>
-    <link href="https://munderdiffl.in/blog/how-to-use-the-built-in-monaco-ide/" />
-    <id>https://munderdiffl.in/blog/how-to-use-the-built-in-monaco-ide/</id>
-    <published>2026-07-03T00:00:00.000Z</published>
-    <updated>2026-07-03T00:00:00.000Z</updated><category term="Guides" />
-    <summary>A practical walkthrough of Munder Difflin v0.3.3&#39;s built-in Monaco IDE: the title-bar IDE button, the git CHANGES rail with side-by-side diffs vs HEAD, the file tree, tabs, Cmd/Ctrl+S save — and the agent review workflow it enables.</summary>
   </entry>
 </feed>
